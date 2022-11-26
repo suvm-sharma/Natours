@@ -26,7 +26,7 @@ This app is a pet project, built for the express purpose of honing my skills in 
 
 ### Tour Details :
 
-![image](https://user-images.githubusercontent.com/90470819/204080326-9a6449c4-55c7-4190-89f9-5f3edc2a7b81.png)
+![image](https://user-images.githubusercontent.com/90470819/204083085-ff0cff8c-4e23-47a5-9817-e4bacbdad3bc.png)
 
 ### Payment Process :
 
