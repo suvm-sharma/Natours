@@ -24,19 +24,19 @@ This app is a pet project, built for the express purpose of honing my skills in 
 
 ![image](https://user-images.githubusercontent.com/90470819/204080312-55bb9921-5b81-4c6c-bc06-1a39203a8f1b.png)
 
-# Tour Details :
+### Tour Details :
 
 ![image](https://user-images.githubusercontent.com/90470819/204080326-9a6449c4-55c7-4190-89f9-5f3edc2a7b81.png)
 
-# Payment Process :
+### Payment Process :
 
 ![image](https://user-images.githubusercontent.com/90470819/204080360-b46e0bf3-dc0c-4b6e-85c0-2f2a84de44cb.png)
 
-# LOGIN PAGE :
+### LOGIN PAGE :
 
 ![image](https://user-images.githubusercontent.com/90470819/204080375-7d8b8fb6-b7d4-41a0-8fd0-15c67dacf0c3.png)
 
-# User Profile :
+### User Profile :
 
 ![image](https://user-images.githubusercontent.com/90470819/204080396-10c20593-5d10-4c3a-83ea-23cd1d44b1c0.png)
 
