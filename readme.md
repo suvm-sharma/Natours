@@ -20,7 +20,7 @@ This app is a pet project, built for the express purpose of honing my skills in 
 
 # Demonstration
 
-# Home Page :
+### Home Page :
 
 ![image](https://user-images.githubusercontent.com/90470819/204080312-55bb9921-5b81-4c6c-bc06-1a39203a8f1b.png)
 
