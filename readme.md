@@ -41,7 +41,7 @@ This app is a pet project, built for the express purpose of honing my skills in 
 ![image](https://user-images.githubusercontent.com/90470819/204080396-10c20593-5d10-4c3a-83ea-23cd1d44b1c0.png)
 
 # Main Tools And Technologies Used
-- HTML (Create the structure and content of the web pages).'
+- HTML (Create the structure and content of the web pages).
 - CSS (Styling of the web pages).
 - PUG (Template engine for generating the web pages dynamically).
 - JAVASCRIPT (Interactivity, as well as making requests to the API from the client-side).
